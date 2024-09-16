@@ -1,9 +1,6 @@
 
 # Advocate TicTacToe Sample Code
-
-A public sample of some of the code written for LeadPulser.
-
-You can see the live project at http://advocate.endquery.com
+Created during interview process for advocate
 
 ## Introduction:
 
